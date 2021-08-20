@@ -16,7 +16,7 @@ The ground truth bounding box is needed to train the YOLOv3-Tiny network. The [L
 
 The image preparation step can be seen in ``0 Image preparation``
 
-| ![Labelling hotdog](https://github.com/RobyKoeswojo/Personal-Projects/blob/main/Food%20Detection%20using%20YOLOv3-Tiny/readmeImage/labellingHotdog.JPG?raw=true) |
+| ![Labelling hotdog](https://github.com/RobyKoeswojo/Food-Detection-using-YOLOv3-Tiny/blob/main/readmeImage/labellingHotdog.JPG?raw=true) |
 |:--:| 
 | Creating ground truth annotation (bounding box) using [LabelImg](https://github.com/tzutalin/labelImg) |
 
@@ -49,11 +49,11 @@ The detection results:
 - The confidence value (probability of object detected) at some images is low (+- 0.39)
 - For food that are located close together, the food detector fails to detect all food
 
-| ![Succesful detection](https://github.com/RobyKoeswojo/Personal-Projects/blob/main/Food%20Detection%20using%20YOLOv3-Tiny/readmeImage/detectFood.JPG?raw=true) |
+| ![Succesful detection](https://github.com/RobyKoeswojo/Food-Detection-using-YOLOv3-Tiny/blob/main/readmeImage/detectFood.JPG?raw=true) |
 |:--:| 
 | Succesful food detection, but some food is detected with low confidence value (+- 0.39) |
 
-| ![Fail detection](https://github.com/RobyKoeswojo/Personal-Projects/blob/main/Food%20Detection%20using%20YOLOv3-Tiny/readmeImage/detectFail.JPG?raw=true) |
+| ![Fail detection](https://github.com/RobyKoeswojo/Food-Detection-using-YOLOv3-Tiny/blob/main/readmeImage/detectFail.JPG?raw=true) |
 |:--:| 
 | Fail food detection: not all food in the image is detected |
 
