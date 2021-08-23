@@ -1,4 +1,5 @@
-# Food Detection using YOLOv3-Tiny
+# Food Detection using YOLOv3-Tiny  
+**Tags**: *YOLOv3*, *OpenCV*, *object detection*, *convolutional neural network*
 
 HBO's Silicon Valley is my favourite tech themed TV series about a programmer who runs a startup in Silicon Valley, California. 
 In the fourth episode of the fourth season, a character named Jian-Yang, who is supposed to create an app like the Shazam for food (an app to detect food using phone camera), presents the demo of the app in front of other residents of the incubator he stays in. The funny thing, the app he makes is only able to distinguish a 'hotdog' and 'not hotdog'. So it is basically an image classification task in machine learning with two classes, i.e. 'hotdog' and 'not hotdog'. The clip is here https://www.youtube.com/watch?v=pqTntG1RXSY  
